@@ -3,9 +3,9 @@ package com.example.funproject.request;
 public class RegistrationRequest {
 
 
-    String email;
-    String username;
-    String password;
+    private String email;
+    private String username;
+    private String password;
 
     public RegistrationRequest() {
     }
